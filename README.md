@@ -10,7 +10,7 @@ Labbee
 ~~Labell~~
 Labelle
 Labiche
-Labit
+~~Labit~~
 Labombard
 Labonte
 Laborde
