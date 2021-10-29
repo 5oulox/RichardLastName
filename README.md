@@ -23,7 +23,6 @@ Labrie
 Labrosse
 Labruyere
 Lacasse
-Lacasse
 Lacelle
 Lacerte
 Lachance
@@ -94,7 +93,6 @@ Lalonde
 Lalumiere
 Laluzerne
 Lamarche
-Lamarque
 Lamarque
 Lamarre
 Lamer
@@ -250,7 +248,6 @@ Lefevre
 Leflore
 Lefort
 Lefrancois
-Lefrancois
 Legard
 Legare
 Legate
@@ -324,7 +321,6 @@ Levert
 Levesque
 Levis
 Ley
-Ley
 Leys
 Lheureux
 Lhommedieu
@@ -348,13 +344,11 @@ Livaudais
 Lizotte
 Lobel
 Loge
-Loge
 Loges
 Loiseau
 Loisel
 Loiselle
 Lombard
-Longe
 Longe
 Longpre
 Longtin
