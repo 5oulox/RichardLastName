@@ -1,5 +1,5 @@
 ~~La Tiolais~~
-Labar
+~~Labar~~
 ~~Labare~~
 Labarge
 Labarr
@@ -36,7 +36,7 @@ Lacosse
 Lacoste
 Lacour
 Lacourse
-Lacoursiere
+~~Lacoursiere~~
 Lacouture
 Lacoy
 Lacroix
@@ -111,7 +111,7 @@ Lamoreux
 Lamothe
 Lamotte
 Lamour
-Lamoureaux
+~~Lamoureaux~~
 Lamoureux
 Lampe
 Lamy
