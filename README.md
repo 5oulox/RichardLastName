@@ -76,7 +76,7 @@ Lagrave
 Lagree
 Lague
 Laguerre
-Lagueux
+~~Lagueux~~
 Lahaie
 Lahaye
 Laine
@@ -127,7 +127,7 @@ Landry
 Landy
 Lange
 Langelier
-Langevin
+~~Langevin~~
 Langille
 Langin
 Langlais
@@ -160,9 +160,9 @@ Lard
 Lardie
 Lardy
 Largent
-Larive
+~~Larive~~
 Larivee
-Lariviere
+~~Lariviere~~
 Laroche
 Larochelle
 Larock
@@ -321,7 +321,7 @@ Levert
 Levesque
 Levis
 Ley
-Leys
+~~Leys~~
 Lheureux
 Lhommedieu
 Lhuillier
