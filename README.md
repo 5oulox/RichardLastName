@@ -103,13 +103,13 @@ Lamirande
 Lamon
 Lamond
 Lamont
-Lamontagne
+~~Lamontagne~~
 Lamore
 Lamoreaux
 Lamoree
 ~~Lamoreux~~
 Lamothe
-Lamotte
+~~Lamotte~~
 ~~Lamour~~
 ~~Lamoureaux~~
 Lamoureux
@@ -184,7 +184,7 @@ Latendresse
 Latour
 Latourelle
 Latourette
-Laude
+~~Laude~~
 Laur
 Laurain
 Laurence
@@ -274,7 +274,7 @@ Lemay
 Lemelle
 Lemer
 Lemery
-Lemieux
+~~Lemieux~~
 Lemire
 Lemoi
 Lemoine
