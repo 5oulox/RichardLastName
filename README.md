@@ -67,7 +67,7 @@ Lafreniere
 Lafromboise
 Lagace
 Lagarde
-Lagasse
+~~Lagasse~~
 Lage
 Lagesse
 Lagoy
@@ -80,7 +80,7 @@ Laguerre
 Lahaie
 Lahaye
 Laine
-Lajeunesse
+~~Lajeunesse~~
 Lajoie
 Lalande
 Lalanne
@@ -107,10 +107,10 @@ Lamontagne
 Lamore
 Lamoreaux
 Lamoree
-Lamoreux
+~~Lamoreux~~
 Lamothe
 Lamotte
-Lamour
+~~Lamour~~
 ~~Lamoureaux~~
 Lamoureux
 Lampe
@@ -284,7 +284,7 @@ Leneave
 Lenfestey
 Lenoir
 Leon
-Leopold
+~~Leopold~~
 Lepage
 Lepere
 Lepine
