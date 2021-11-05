@@ -46,7 +46,7 @@ Lafary
 Laferriere
 Laffitte
 Lafitte
-Laflamme
+~~Laflamme~~
 Lafleche
 Lafleur
 Lafollette
@@ -91,7 +91,7 @@ Lallier
 Lally
 Lalonde
 Lalumiere
-Laluzerne
+~~Laluzerne~~
 Lamarche
 Lamarque
 Lamarre
@@ -101,7 +101,7 @@ Lamey
 Lamirand
 Lamirande
 Lamon
-Lamond
+~~Lamond~~
 Lamont
 ~~Lamontagne~~
 Lamore
@@ -169,7 +169,7 @@ Larock
 Larocque
 Laroque
 Larose
-Larouche
+~~Larouche~~
 Laroux
 Larrieu
 Larrivee
@@ -187,7 +187,7 @@ Latourette
 ~~Laude~~
 Laur
 Laurain
-Laurence
+~~Laurence~~
 Laurendeau
 Laurent
 Laurie
