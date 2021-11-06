@@ -34,7 +34,7 @@ Lacombe
 Lacoss
 Lacosse
 Lacoste
-Lacour
+~~Lacour~~
 Lacourse
 ~~Lacoursiere~~
 Lacouture
@@ -339,7 +339,7 @@ Linne
 Liou
 Lirette
 Lis
-Litalien
+~~Litalien~~
 Livaudais
 Lizotte
 Lobel
