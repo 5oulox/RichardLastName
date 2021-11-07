@@ -322,7 +322,7 @@ Levesque
 Levis
 Ley
 ~~Leys~~
-Lheureux
+~~Lheureux~~
 Lhommedieu
 Lhuillier
 Lia
