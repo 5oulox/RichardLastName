@@ -39,7 +39,7 @@ Lacourse
 ~~Lacoursiere~~
 Lacouture
 Lacoy
-Lacroix
+~~Lacroix~~
 Ladouceur
 Lafarge
 Lafary
@@ -99,7 +99,7 @@ Lamer
 Lamere
 Lamey
 Lamirand
-Lamirande
+~~Lamirande~~
 Lamon
 ~~Lamond~~
 Lamont
@@ -128,14 +128,14 @@ Landy
 Lange
 Langelier
 ~~Langevin~~
-Langille
+~~Langille~~
 Langin
 Langlais
 Langlois
 Lanier
 Lannoye
 Lanoue
-Lanouette
+~~Lanouette~~
 Lanthier
 Lantier
 Lapage
@@ -298,7 +298,7 @@ Lesage
 Lesane
 Lesesne
 Lesieur
-Lesperance
+~~Lesperance~~
 Lessard
 Lestage
 Lestrange
@@ -331,7 +331,7 @@ Libert
 Lile
 Limoges
 Limon
-Linard
+~~Linard~~
 Line
 Linger
 Linne
@@ -340,7 +340,7 @@ Liou
 Lirette
 Lis
 ~~Litalien~~
-Livaudais
+~~Livaudais~~
 Lizotte
 Lobel
 Loge
