@@ -119,7 +119,7 @@ Lance
 Lanclos
 Lancto
 Lanctot
-Lande
+~~Lande~~
 Landes
 Landon
 Landreville
