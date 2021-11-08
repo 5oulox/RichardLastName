@@ -49,10 +49,10 @@ Lafitte
 ~~Laflamme~~
 Lafleche
 Lafleur
-Lafollette
+~~Lafollette~~
 Lafon
 Lafond
-Lafont
+~~Lafont~~
 Lafontaine
 Lafontant
 Laforce
@@ -204,7 +204,7 @@ Lavallee
 Lavelle
 Lavene
 Laventure
-Laverdiere
+~~Laverdiere~~
 Laverdure
 Lavergne
 Laverne
