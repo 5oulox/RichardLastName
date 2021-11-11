@@ -29,7 +29,7 @@ Lachance
 Lachapelle
 Lacharite
 Lachat
-Laclaire
+~~Laclaire~~
 Lacombe
 Lacoss
 Lacosse
@@ -207,7 +207,7 @@ Laventure
 ~~Laverdiere~~
 Laverdure
 Lavergne
-Laverne
+~~Laverne~~
 Lavertu
 Lavier
 Lavigne
@@ -324,7 +324,7 @@ Ley
 ~~Leys~~
 ~~Lheureux~~
 Lhommedieu
-Lhuillier
+~~Lhuillier~~
 Lia
 Liber
 Libert
@@ -368,7 +368,7 @@ Loth
 Loudin
 Louis
 Louise
-Louissaint
+~~Louissaint~~
 Loup
 Loupe
 Louque
