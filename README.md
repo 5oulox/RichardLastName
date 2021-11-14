@@ -75,7 +75,7 @@ Lagrange
 Lagrave
 Lagree
 Lague
-Laguerre
+~~Laguerre~~
 ~~Lagueux~~
 Lahaie
 Lahaye
@@ -323,7 +323,7 @@ Levis
 Ley
 ~~Leys~~
 ~~Lheureux~~
-Lhommedieu
+~~Lhommedieu~~
 ~~Lhuillier~~
 Lia
 Liber
@@ -353,7 +353,7 @@ Longe
 Longpre
 Longtin
 Loranger
-Lord
+~~Lord~~
 Lore
 Loree
 ~~Lorette~~
