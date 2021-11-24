@@ -14,7 +14,7 @@ Labiche
 Labombard
 Labonte
 Laborde
-Labossiere
+~~Labossiere~~
 Labove
 Labranche
 Labreche
@@ -84,7 +84,7 @@ Laine
 Lajoie
 Lalande
 Lalanne
-Laliberte
+~~Laliberte~~
 Laliberty
 Lalley
 Lallier
@@ -232,7 +232,7 @@ Lebreton
 ~~Lebrun~~
 Leclair
 Leclerc
-Leclercq
+~~Leclercq~~
 Leclere
 Lecocq
 Lecompte
@@ -247,7 +247,7 @@ Lefebure
 Lefevre
 Leflore
 Lefort
-Lefrancois
+~~Lefrancois~~
 Legard
 Legare
 Legate
@@ -267,7 +267,7 @@ Leleux
 Lelievre
 Lemahieu
 Lemaire
-Lemaitre
+~~Lemaitre~~
 Lemar
 Lemarr
 Lemay
@@ -279,7 +279,7 @@ Lemire
 Lemoi
 Lemoine
 Lemont
-Lenard
+~~Lenard~~
 Leneave
 Lenfestey
 Lenoir
@@ -366,7 +366,7 @@ Lory
 Losier
 Loth
 Loudin
-Louis
+~~Louis~~
 Louise
 ~~Louissaint~~
 Loup
