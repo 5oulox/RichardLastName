@@ -3,7 +3,7 @@
 ~~Labare~~
 Labarge
 Labarr
-Labarre
+~~Labarre~~
 Labbe
 Labbee
 ~~Labby~~
@@ -72,7 +72,7 @@ Lage
 Lagesse
 Lagoy
 Lagrange
-Lagrave
+~~Lagrave~~
 Lagree
 Lague
 ~~Laguerre~~
@@ -235,7 +235,7 @@ Leclerc
 ~~Leclercq~~
 Leclere
 Lecocq
-Lecompte
+~~Lecompte~~
 Lecomte
 Leconte
 Lecoq
