@@ -48,7 +48,7 @@ Laffitte
 Lafitte
 ~~Laflamme~~
 Lafleche
-Lafleur
+~~Lafleur~~
 ~~Lafollette~~
 Lafon
 Lafond
@@ -102,7 +102,7 @@ Lamirand
 ~~Lamirande~~
 Lamon
 ~~Lamond~~
-Lamont
+~~Lamont~~
 ~~Lamontagne~~
 Lamore
 Lamoreaux
@@ -122,7 +122,7 @@ Lanctot
 ~~Lande~~
 Landes
 Landon
-Landreville
+~~Landreville~~
 Landry
 Landy
 Lange
@@ -221,7 +221,7 @@ Lazer
 Lebaron
 Lebeau
 Lebel
-Lebert
+~~Lebert~~
 ~~Leblanc~~
 Lebleu
 Leblond
@@ -260,11 +260,11 @@ Legnon
 Legrand
 Legrande
 Legros
-Lehouillier
+~~Lehouillier~~
 Leib
 Lejeune
 Leleux
-Lelievre
+~~Lelievre~~
 Lemahieu
 Lemaire
 ~~Lemaitre~~
@@ -283,7 +283,7 @@ Lemont
 Leneave
 Lenfestey
 Lenoir
-Leon
+~~Leon~~
 ~~Leopold~~
 Lepage
 Lepere
@@ -292,7 +292,7 @@ Lepre
 Lequire
 Leray
 Leriche
-Leroux
+~~Leroux~~
 Leroy
 Lesage
 Lesane
@@ -301,7 +301,7 @@ Lesieur
 ~~Lesperance~~
 Lessard
 Lestage
-Lestrange
+~~Lestrange~~
 Lesueur
 Lesure
 Letellier
@@ -311,14 +311,14 @@ Leuck
 Leva
 Levan
 Levant
-Levasseur
+~~Levasseur~~
 Leve
 Levee
 Leveille
 Levell
 Leveque
 Levert
-Levesque
+~~Levesque~~
 Levis
 Ley
 ~~Leys~~
